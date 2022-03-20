@@ -1,6 +1,25 @@
 h1 {color: red;
+	text-align: center;
 		}
 a {color: bule;
 	}
 body{background-image: url("tt.jpg");
 		}
+div{
+	color: #260;
+	text-align: center;
+}
+p{
+
+	width: auto;
+	text-align: center;
+}
+ol{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.brown{
+	color: brown;
+}
