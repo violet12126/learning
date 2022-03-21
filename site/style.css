@@ -23,3 +23,7 @@ h2{
 .brown{
 	color: brown;
 }
+ a:hover{
+	color: violet;
+	cursor: pointer;
+}
