@@ -1,1 +1,2 @@
-document.write("随便学学玩玩")
+document.write("学着玩玩");
+alert("你好");
