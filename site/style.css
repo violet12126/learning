@@ -1,5 +1,6 @@
 h1 {color: red;
 	text-align: center;
+	font-size: xx-large;
 		}
 a {color: bule;
 	}
@@ -17,13 +18,14 @@ p{
 ol{
 	text-align: center;
 }
-h2{
-	text-align: center;
-}
+
 .brown{
 	color: brown;
 }
  a:hover{
-	color: violet;
+	color: blue;
 	cursor: pointer;
+}
+details{
+	text-align: center;
 }
