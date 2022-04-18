@@ -1,10 +1,10 @@
-h1 {color: red;
+h1 {color: rgb(240, 237, 237);
 	text-align: center;
 	font-size: xx-large;
 		}
-a {color: bule;
+a {color: white;
 	}
-body{background-image: url("tt.jpg");
+body{background-image: url("bg.png");
 		}
 div{
 	color: #260;
@@ -15,7 +15,7 @@ p{
 	width: auto;
 	text-align: center;
 }
-ol{
+li{
 	text-align: center;
 }
 
@@ -23,9 +23,13 @@ ol{
 	color: brown;
 }
  a:hover{
-	color: blue;
+	color: black;
 	cursor: pointer;
 }
-details{
+
+section{
 	text-align: center;
+	color: rgb(208, 189, 221);
+	border: 6px black dashed;
+	padding: 10px;
 }
